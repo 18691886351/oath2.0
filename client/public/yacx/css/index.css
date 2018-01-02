@@ -1,0 +1,58 @@
+button {
+	width: 80%;
+}
+
+.page {
+	margin-top: 10px;
+}
+
+form {
+	margin-top: 10px;
+}
+
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 16px;
+}
+
+#target3 {
+	background: #fff;
+	width: 99px;
+	height: 99px;
+	padding: 15px;
+}
+
+#tit {
+	color: red; /*颜色：红*/
+}
+
+#amt_div {
+	text-align: center;
+}
+
+#aftamt_font {
+	color: red;
+}
+
+#aftamt_i {
+	font-size: 35px;
+}
+
+#p_aftamt {
+	font-size: 35px;
+}
+
+#beforamt_font {
+	color: #A8A8A8;
+	text-decoration: line-through;
+	font-size: 20px;
+}
+
+#discount_div {
+	text-align: center;
+}
+
+#discountamt_font {
+	color: #FF7F00;
+	font-size: 18px;
+}

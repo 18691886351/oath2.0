@@ -1,0 +1,7 @@
+{
+  "auth_authorize_uri":"http://localhost:8000/server/oauth2/authorize",
+  "resource_userinfo_uri":"http://localhost:8000/server/resource/userinfo",
+  "client_redirect_uri":"http://localhost:8001/client/sample/callback",
+  "auth_token_uri":"http://localhost:8000/server/oauth2/token",
+  "client_id":"55555"
+}

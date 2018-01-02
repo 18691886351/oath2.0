@@ -1,0 +1,27 @@
+{
+  "name": "ebps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+      "ejs": "^2.3.1",
+      "express": "^4.12.3",
+      "mysql":"^2.15.0",
+      "body-parser":"^1.18.2",
+      "moment": "latest",
+      "request":"latest",
+      "cookie-parser":"latest",
+      "express-session":"latest",
+      "ejs":"latest",
+      "bluebird":"latest"
+  }
+}
